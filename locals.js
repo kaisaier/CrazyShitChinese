@@ -52,6 +52,13 @@ I18N.zh = {
 
     "pubilc": { // 公共区域翻译
         "static": { // 静态翻译
+             // try翻译导航栏
+            "login/register": "登录/注册",
+            "pics": "图片",
+
+
+
+
             // 未登录部分
             "Personal": "个人",
             "Open source": "开源",
