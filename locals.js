@@ -4,7 +4,7 @@ I18N.conf = {
     /**
      * 要翻译的页面正则
      */
-    rePageClass: /\b(vis-public|page-(dashboard|profile|account|new-repo|create-org)|homepage|signup|session-authentication|oauth)\b/,
+    rePageClass: /\b(vis-public|page-(dashboard|profile|account|new-repo|create-org)|homepage|signup|pictures|videos|series)\b/,
 
     /**
      * 匹配 pathname 页面的正则
@@ -56,7 +56,7 @@ I18N.zh = {
             "login/register": "登录/注册",
             "pics": "图片",
             "videos": "视频",
-            "series": "服务",
+            "series": "系列",
             "VR Sites": "VR站点",
             "User Uploads": "用户上传",
             "Search CrazyShit": "搜索 CrazyShit",
@@ -67,6 +67,12 @@ I18N.zh = {
             "WTF": "WTF",
             "All Categories": "所有分类",
 
+
+
+
+
+
+            
             // 未登录部分
             "Personal": "个人",
             "Open source": "开源",
