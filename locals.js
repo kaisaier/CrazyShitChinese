@@ -55,9 +55,14 @@ I18N.zh = {
              // try翻译导航栏
             "login/register": "登录/注册",
             "pics": "图片",
-
-
-
+            "video": "视频",
+            "series": "服务",
+            "VR Sites": "VR站点",
+            "User Uploads": "用户上传",
+            "Search CrazyShit": "搜索 CrazyShit",
+            "Top Categories": "热门分类",
+            "Friends": "朋友",
+            
 
             // 未登录部分
             "Personal": "个人",
