@@ -1,0 +1,2 @@
+# CrazyShitChinese
+Translate CrazyShit
